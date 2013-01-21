@@ -1,0 +1,1 @@
+#tag ClassProtected Class clsTestCaseEnd Class#tag EndClass
